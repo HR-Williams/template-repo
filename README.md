@@ -6,10 +6,16 @@
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _Babel_
+* _Bootstrap_
+* _webpack_
+* _CSS_
+* _eslint_
+* _JavaScript_
+* _Jest_
+* _jQuery_
+* _npm_
+* _popper.js_
 
 ## Description
 
