@@ -6,4 +6,4 @@ export default function Example(property1, property2, property3) {
 
 Example.prototype.exampleMethod = function() {
   return "I'm an example";
-}
+};
